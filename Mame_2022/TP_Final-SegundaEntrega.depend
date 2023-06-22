@@ -1,0 +1,659 @@
+# depslib dependency file v1.0
+1668363211 source:c:\users\nahum\desktop\tp_final-2da entrega\tp_final-segundaentrega\tp_final-segundaentrega\librerias\arbolusuarios.c
+	"ArbolUsuarios.h"
+
+1668358927 c:\users\nahum\desktop\tp_final-2da entrega\tp_final-segundaentrega\tp_final-segundaentrega\librerias\arbolusuarios.h
+	"ListaHyM.h"
+
+1668107449 c:\users\nahum\desktop\tp_final-2da entrega\tp_final-segundaentrega\tp_final-segundaentrega\librerias\listaconsumos.h
+	"TicketCompra.h"
+
+1668724615 c:\users\nahum\desktop\tp_final-2da entrega\tp_final-segundaentrega\tp_final-segundaentrega\librerias\ticketcompra.h
+	"Usuario.h"
+
+1668382901 c:\users\nahum\desktop\tp_final-2da entrega\tp_final-segundaentrega\tp_final-segundaentrega\librerias\usuario.h
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<windows.h>
+	<string.h>
+	<math.h>
+	<time.h>
+	<stdbool.h>
+	<locale.h>
+	<direct.h>
+
+1667963122 source:c:\users\nahum\desktop\tp_final-2da entrega\tp_final-segundaentrega\tp_final-segundaentrega\librerias\jumpfrog.c
+	"JumpFrog.h"
+
+1667963121 c:\users\nahum\desktop\tp_final-2da entrega\tp_final-segundaentrega\tp_final-segundaentrega\librerias\jumpfrog.h
+	"PingPong.h"
+
+1667963016 c:\users\nahum\desktop\tp_final-2da entrega\tp_final-segundaentrega\tp_final-segundaentrega\librerias\pingpong.h
+	"SnakeGame.h"
+
+1667963016 c:\users\nahum\desktop\tp_final-2da entrega\tp_final-segundaentrega\tp_final-segundaentrega\librerias\snakegame.h
+	"ArbolUsuarios.h"
+
+1668363325 source:c:\users\nahum\desktop\tp_final-2da entrega\tp_final-segundaentrega\tp_final-segundaentrega\librerias\listaconsumos.c
+	"ListaConsumos.h"
+
+1667963016 source:c:\users\nahum\desktop\tp_final-2da entrega\tp_final-segundaentrega\tp_final-segundaentrega\librerias\pingpong.c
+	"PingPong.h"
+
+1667963016 source:c:\users\nahum\desktop\tp_final-2da entrega\tp_final-segundaentrega\tp_final-segundaentrega\librerias\snakegame.c
+	"SnakeGame.h"
+
+1668724615 source:c:\users\nahum\desktop\tp_final-2da entrega\tp_final-segundaentrega\tp_final-segundaentrega\librerias\ticketcompra.c
+	"TicketCompra.h"
+
+1668384839 source:c:\users\nahum\desktop\tp_final-2da entrega\tp_final-segundaentrega\tp_final-segundaentrega\librerias\usuario.c
+	"Usuario.h"
+
+1668384146 source:c:\users\nahum\desktop\tp_final-2da entrega\tp_final-segundaentrega\tp_final-segundaentrega\main.c
+	"MAME.h"
+
+1668382207 c:\users\nahum\desktop\tp_final-2da entrega\tp_final-segundaentrega\tp_final-segundaentrega\librerias\listahym.h
+	"ListaConsumos.h"
+
+1668382511 source:c:\users\nahum\desktop\tp_final-2da entrega\tp_final-segundaentrega\tp_final-segundaentrega\librerias\listahym.c
+	"ListaHyM.h"
+
+1668724779 source:c:\users\nahum\desktop\tp_final-2da entrega\tp_final-segundaentrega\tp_final-segundaentrega\librerias\mame.c
+	"MAME.h"
+
+1668723387 c:\users\nahum\desktop\tp_final-2da entrega\tp_final-segundaentrega\tp_final-segundaentrega\librerias\mame.h
+	"JumpFrog.h"
+
+1668890004 source:c:\users\caran\onedrive\escritorio\tp_final-segundaentrega\librerias\arbolusuarios.c
+	"ArbolUsuarios.h"
+
+1668889986 c:\users\caran\onedrive\escritorio\tp_final-segundaentrega\librerias\arbolusuarios.h
+	"ListaHyM.h"
+
+1668382207 c:\users\caran\onedrive\escritorio\tp_final-segundaentrega\librerias\listahym.h
+	"ListaConsumos.h"
+
+1668745979 c:\users\caran\onedrive\escritorio\tp_final-segundaentrega\librerias\listaconsumos.h
+	"TicketCompra.h"
+
+1668887225 c:\users\caran\onedrive\escritorio\tp_final-segundaentrega\librerias\ticketcompra.h
+	"Usuario.h"
+
+1668887225 c:\users\caran\onedrive\escritorio\tp_final-segundaentrega\librerias\usuario.h
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<windows.h>
+	<string.h>
+	<math.h>
+	<time.h>
+	<stdbool.h>
+	<locale.h>
+	<direct.h>
+
+1667963122 source:c:\users\caran\onedrive\escritorio\tp_final-segundaentrega\librerias\jumpfrog.c
+	"JumpFrog.h"
+
+1667963121 c:\users\caran\onedrive\escritorio\tp_final-segundaentrega\librerias\jumpfrog.h
+	"PingPong.h"
+
+1667963016 c:\users\caran\onedrive\escritorio\tp_final-segundaentrega\librerias\pingpong.h
+	"SnakeGame.h"
+
+1667963016 c:\users\caran\onedrive\escritorio\tp_final-segundaentrega\librerias\snakegame.h
+	"ArbolUsuarios.h"
+
+1668746063 source:c:\users\caran\onedrive\escritorio\tp_final-segundaentrega\librerias\listaconsumos.c
+	"ListaConsumos.h"
+
+1668382511 source:c:\users\caran\onedrive\escritorio\tp_final-segundaentrega\librerias\listahym.c
+	"ListaHyM.h"
+
+1667963016 source:c:\users\caran\onedrive\escritorio\tp_final-segundaentrega\librerias\pingpong.c
+	"PingPong.h"
+
+1667963016 source:c:\users\caran\onedrive\escritorio\tp_final-segundaentrega\librerias\snakegame.c
+	"SnakeGame.h"
+
+1668810775 source:c:\users\caran\onedrive\escritorio\tp_final-segundaentrega\librerias\ticketcompra.c
+	"TicketCompra.h"
+
+1668810775 source:c:\users\caran\onedrive\escritorio\tp_final-segundaentrega\main.c
+	"MAME.h"
+
+1668889683 c:\users\caran\onedrive\escritorio\tp_final-segundaentrega\librerias\mame.h
+	"JumpFrog.h"
+
+1668888797 source:c:\users\caran\onedrive\escritorio\tp_final-segundaentrega\librerias\usuario.c
+	"Usuario.h"
+
+1668889986 source:c:\users\caran\onedrive\escritorio\tp_final-segundaentrega\librerias\mame.c
+	"MAME.h"
+
+1668886325 source:c:\users\nahum\desktop\tp_final-2da entrega\tp_final-segundaentregacarli 18-11-22 18hs\tp_final-segundaentrega\librerias\arbolusuarios.c
+	"ArbolUsuarios.h"
+
+1668886101 c:\users\nahum\desktop\tp_final-2da entrega\tp_final-segundaentregacarli 18-11-22 18hs\tp_final-segundaentrega\librerias\arbolusuarios.h
+	"ListaHyM.h"
+
+1668382207 c:\users\nahum\desktop\tp_final-2da entrega\tp_final-segundaentregacarli 18-11-22 18hs\tp_final-segundaentrega\librerias\listahym.h
+	"ListaConsumos.h"
+
+1668745979 c:\users\nahum\desktop\tp_final-2da entrega\tp_final-segundaentregacarli 18-11-22 18hs\tp_final-segundaentrega\librerias\listaconsumos.h
+	"TicketCompra.h"
+
+1668810775 c:\users\nahum\desktop\tp_final-2da entrega\tp_final-segundaentregacarli 18-11-22 18hs\tp_final-segundaentrega\librerias\ticketcompra.h
+	"Usuario.h"
+
+1668810775 c:\users\nahum\desktop\tp_final-2da entrega\tp_final-segundaentregacarli 18-11-22 18hs\tp_final-segundaentrega\librerias\usuario.h
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<windows.h>
+	<string.h>
+	<math.h>
+	<time.h>
+	<stdbool.h>
+	<locale.h>
+	<direct.h>
+
+1667963122 source:c:\users\nahum\desktop\tp_final-2da entrega\tp_final-segundaentregacarli 18-11-22 18hs\tp_final-segundaentrega\librerias\jumpfrog.c
+	"JumpFrog.h"
+
+1667963121 c:\users\nahum\desktop\tp_final-2da entrega\tp_final-segundaentregacarli 18-11-22 18hs\tp_final-segundaentrega\librerias\jumpfrog.h
+	"PingPong.h"
+
+1667963016 c:\users\nahum\desktop\tp_final-2da entrega\tp_final-segundaentregacarli 18-11-22 18hs\tp_final-segundaentrega\librerias\pingpong.h
+	"SnakeGame.h"
+
+1667963016 c:\users\nahum\desktop\tp_final-2da entrega\tp_final-segundaentregacarli 18-11-22 18hs\tp_final-segundaentrega\librerias\snakegame.h
+	"ArbolUsuarios.h"
+
+1668746063 source:c:\users\nahum\desktop\tp_final-2da entrega\tp_final-segundaentregacarli 18-11-22 18hs\tp_final-segundaentrega\librerias\listaconsumos.c
+	"ListaConsumos.h"
+
+1668382511 source:c:\users\nahum\desktop\tp_final-2da entrega\tp_final-segundaentregacarli 18-11-22 18hs\tp_final-segundaentrega\librerias\listahym.c
+	"ListaHyM.h"
+
+1668886630 source:c:\users\nahum\desktop\tp_final-2da entrega\tp_final-segundaentregacarli 18-11-22 18hs\tp_final-segundaentrega\librerias\mame.c
+	"MAME.h"
+
+1668885950 c:\users\nahum\desktop\tp_final-2da entrega\tp_final-segundaentregacarli 18-11-22 18hs\tp_final-segundaentrega\librerias\mame.h
+	"JumpFrog.h"
+
+1667963016 source:c:\users\nahum\desktop\tp_final-2da entrega\tp_final-segundaentregacarli 18-11-22 18hs\tp_final-segundaentrega\librerias\pingpong.c
+	"PingPong.h"
+
+1667963016 source:c:\users\nahum\desktop\tp_final-2da entrega\tp_final-segundaentregacarli 18-11-22 18hs\tp_final-segundaentrega\librerias\snakegame.c
+	"SnakeGame.h"
+
+1668810775 source:c:\users\nahum\desktop\tp_final-2da entrega\tp_final-segundaentregacarli 18-11-22 18hs\tp_final-segundaentrega\librerias\ticketcompra.c
+	"TicketCompra.h"
+
+1668885950 source:c:\users\nahum\desktop\tp_final-2da entrega\tp_final-segundaentregacarli 18-11-22 18hs\tp_final-segundaentrega\librerias\usuario.c
+	"Usuario.h"
+
+1668810775 source:c:\users\nahum\desktop\tp_final-2da entrega\tp_final-segundaentregacarli 18-11-22 18hs\tp_final-segundaentrega\main.c
+	"MAME.h"
+
+1668962688 source:c:\users\nahum\desktop\tp_final-2da entrega\tp_final-segundaentregacarli 20-11 1200hs\tp_final-segundaentrega\librerias\arbolusuarios.c
+	"ArbolUsuarios.h"
+
+1668959944 c:\users\nahum\desktop\tp_final-2da entrega\tp_final-segundaentregacarli 20-11 1200hs\tp_final-segundaentrega\librerias\arbolusuarios.h
+	"ListaHyM.h"
+
+1668382207 c:\users\nahum\desktop\tp_final-2da entrega\tp_final-segundaentregacarli 20-11 1200hs\tp_final-segundaentrega\librerias\listahym.h
+	"ListaConsumos.h"
+
+1668745979 c:\users\nahum\desktop\tp_final-2da entrega\tp_final-segundaentregacarli 20-11 1200hs\tp_final-segundaentrega\librerias\listaconsumos.h
+	"TicketCompra.h"
+
+1668956785 c:\users\nahum\desktop\tp_final-2da entrega\tp_final-segundaentregacarli 20-11 1200hs\tp_final-segundaentrega\librerias\ticketcompra.h
+	"Usuario.h"
+
+1668967309 c:\users\nahum\desktop\tp_final-2da entrega\tp_final-segundaentregacarli 20-11 1200hs\tp_final-segundaentrega\librerias\usuario.h
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<windows.h>
+	<string.h>
+	<math.h>
+	<time.h>
+	<stdbool.h>
+	<locale.h>
+	<direct.h>
+
+1668968691 source:c:\users\nahum\desktop\tp_final-2da entrega\tp_final-segundaentregacarli 20-11 1200hs\tp_final-segundaentrega\librerias\jumpfrog.c
+	"JumpFrog.h"
+
+1668968867 c:\users\nahum\desktop\tp_final-2da entrega\tp_final-segundaentregacarli 20-11 1200hs\tp_final-segundaentrega\librerias\jumpfrog.h
+	"PingPong.h"
+
+1668972838 c:\users\nahum\desktop\tp_final-2da entrega\tp_final-segundaentregacarli 20-11 1200hs\tp_final-segundaentrega\librerias\pingpong.h
+	"SnakeGame.h"
+
+1668969255 c:\users\nahum\desktop\tp_final-2da entrega\tp_final-segundaentregacarli 20-11 1200hs\tp_final-segundaentrega\librerias\snakegame.h
+	"ArbolUsuarios.h"
+
+1668746063 source:c:\users\nahum\desktop\tp_final-2da entrega\tp_final-segundaentregacarli 20-11 1200hs\tp_final-segundaentrega\librerias\listaconsumos.c
+	"ListaConsumos.h"
+
+1668382511 source:c:\users\nahum\desktop\tp_final-2da entrega\tp_final-segundaentregacarli 20-11 1200hs\tp_final-segundaentrega\librerias\listahym.c
+	"ListaHyM.h"
+
+1668973161 source:c:\users\nahum\desktop\tp_final-2da entrega\tp_final-segundaentregacarli 20-11 1200hs\tp_final-segundaentrega\librerias\mame.c
+	"MAME.h"
+
+1668967124 c:\users\nahum\desktop\tp_final-2da entrega\tp_final-segundaentregacarli 20-11 1200hs\tp_final-segundaentrega\librerias\mame.h
+	"JumpFrog.h"
+
+1668972917 source:c:\users\nahum\desktop\tp_final-2da entrega\tp_final-segundaentregacarli 20-11 1200hs\tp_final-segundaentrega\librerias\pingpong.c
+	"PingPong.h"
+
+1668970232 source:c:\users\nahum\desktop\tp_final-2da entrega\tp_final-segundaentregacarli 20-11 1200hs\tp_final-segundaentrega\librerias\snakegame.c
+	"SnakeGame.h"
+
+1668810775 source:c:\users\nahum\desktop\tp_final-2da entrega\tp_final-segundaentregacarli 20-11 1200hs\tp_final-segundaentrega\librerias\ticketcompra.c
+	"TicketCompra.h"
+
+1668961258 source:c:\users\nahum\desktop\tp_final-2da entrega\tp_final-segundaentregacarli 20-11 1200hs\tp_final-segundaentrega\librerias\usuario.c
+	"Usuario.h"
+
+1668810775 source:c:\users\nahum\desktop\tp_final-2da entrega\tp_final-segundaentregacarli 20-11 1200hs\tp_final-segundaentrega\main.c
+	"MAME.h"
+
+1669074944 source:d:\traherm\utn\2° cuatri\programacion 2\2°parcial\finalizimo\tp_final-segundaentrega\librerias\arbolusuarios.c
+	"ArbolUsuarios.h"
+
+1668959944 d:\traherm\utn\2° cuatri\programacion 2\2°parcial\finalizimo\tp_final-segundaentrega\librerias\arbolusuarios.h
+	"ListaHyM.h"
+
+1668382207 d:\traherm\utn\2° cuatri\programacion 2\2°parcial\finalizimo\tp_final-segundaentrega\librerias\listahym.h
+	"ListaConsumos.h"
+
+1668977849 d:\traherm\utn\2° cuatri\programacion 2\2°parcial\finalizimo\tp_final-segundaentrega\librerias\listaconsumos.h
+	"TicketCompra.h"
+
+1669157569 d:\traherm\utn\2° cuatri\programacion 2\2°parcial\finalizimo\tp_final-segundaentrega\librerias\ticketcompra.h
+	"Usuario.h"
+
+1669157569 d:\traherm\utn\2° cuatri\programacion 2\2°parcial\finalizimo\tp_final-segundaentrega\librerias\usuario.h
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<windows.h>
+	<string.h>
+	<math.h>
+	<time.h>
+	<stdbool.h>
+	<locale.h>
+	<direct.h>
+
+1669078526 source:d:\traherm\utn\2° cuatri\programacion 2\2°parcial\finalizimo\tp_final-segundaentrega\librerias\jumpfrog.c
+	"JumpFrog.h"
+
+1669071019 d:\traherm\utn\2° cuatri\programacion 2\2°parcial\finalizimo\tp_final-segundaentrega\librerias\jumpfrog.h
+	"PingPong.h"
+
+1669064674 d:\traherm\utn\2° cuatri\programacion 2\2°parcial\finalizimo\tp_final-segundaentrega\librerias\pingpong.h
+	"SnakeGame.h"
+
+1669063214 d:\traherm\utn\2° cuatri\programacion 2\2°parcial\finalizimo\tp_final-segundaentrega\librerias\snakegame.h
+	"ArbolUsuarios.h"
+
+1668977849 source:d:\traherm\utn\2° cuatri\programacion 2\2°parcial\finalizimo\tp_final-segundaentrega\librerias\listaconsumos.c
+	"ListaConsumos.h"
+
+1669087589 source:d:\traherm\utn\2° cuatri\programacion 2\2°parcial\finalizimo\tp_final-segundaentrega\librerias\listahym.c
+	"ListaHyM.h"
+
+1669157591 source:d:\traherm\utn\2° cuatri\programacion 2\2°parcial\finalizimo\tp_final-segundaentrega\librerias\mame.c
+	"MAME.h"
+
+1669064717 d:\traherm\utn\2° cuatri\programacion 2\2°parcial\finalizimo\tp_final-segundaentrega\librerias\mame.h
+	"JumpFrog.h"
+
+1669068916 source:d:\traherm\utn\2° cuatri\programacion 2\2°parcial\finalizimo\tp_final-segundaentrega\librerias\pingpong.c
+	"PingPong.h"
+
+1669063311 source:d:\traherm\utn\2° cuatri\programacion 2\2°parcial\finalizimo\tp_final-segundaentrega\librerias\snakegame.c
+	"SnakeGame.h"
+
+1669070919 source:d:\traherm\utn\2° cuatri\programacion 2\2°parcial\finalizimo\tp_final-segundaentrega\librerias\ticketcompra.c
+	"TicketCompra.h"
+
+1669088842 source:d:\traherm\utn\2° cuatri\programacion 2\2°parcial\finalizimo\tp_final-segundaentrega\librerias\usuario.c
+	"Usuario.h"
+
+1669074683 source:d:\traherm\utn\2° cuatri\programacion 2\2°parcial\finalizimo\tp_final-segundaentrega\main.c
+	"MAME.h"
+
+1668962688 source:c:\users\nahum\desktop\tp_final-2da entrega\ultima actualizacion seba 10-11 1810hs liquidacion terminada\librerias\arbolusuarios.c
+	"ArbolUsuarios.h"
+
+1668959944 c:\users\nahum\desktop\tp_final-2da entrega\ultima actualizacion seba 10-11 1810hs liquidacion terminada\librerias\arbolusuarios.h
+	"ListaHyM.h"
+
+1668382207 c:\users\nahum\desktop\tp_final-2da entrega\ultima actualizacion seba 10-11 1810hs liquidacion terminada\librerias\listahym.h
+	"ListaConsumos.h"
+
+1668977849 c:\users\nahum\desktop\tp_final-2da entrega\ultima actualizacion seba 10-11 1810hs liquidacion terminada\librerias\listaconsumos.h
+	"TicketCompra.h"
+
+1668981001 c:\users\nahum\desktop\tp_final-2da entrega\ultima actualizacion seba 10-11 1810hs liquidacion terminada\librerias\ticketcompra.h
+	"Usuario.h"
+
+1668983739 c:\users\nahum\desktop\tp_final-2da entrega\ultima actualizacion seba 10-11 1810hs liquidacion terminada\librerias\usuario.h
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<windows.h>
+	<string.h>
+	<math.h>
+	<time.h>
+	<stdbool.h>
+	<locale.h>
+	<direct.h>
+
+1668978171 source:c:\users\nahum\desktop\tp_final-2da entrega\ultima actualizacion seba 10-11 1810hs liquidacion terminada\librerias\jumpfrog.c
+	"JumpFrog.h"
+
+1668977331 c:\users\nahum\desktop\tp_final-2da entrega\ultima actualizacion seba 10-11 1810hs liquidacion terminada\librerias\jumpfrog.h
+	"PingPong.h"
+
+1668972838 c:\users\nahum\desktop\tp_final-2da entrega\ultima actualizacion seba 10-11 1810hs liquidacion terminada\librerias\pingpong.h
+	"SnakeGame.h"
+
+1668969255 c:\users\nahum\desktop\tp_final-2da entrega\ultima actualizacion seba 10-11 1810hs liquidacion terminada\librerias\snakegame.h
+	"ArbolUsuarios.h"
+
+1668977849 source:c:\users\nahum\desktop\tp_final-2da entrega\ultima actualizacion seba 10-11 1810hs liquidacion terminada\librerias\listaconsumos.c
+	"ListaConsumos.h"
+
+1668382511 source:c:\users\nahum\desktop\tp_final-2da entrega\ultima actualizacion seba 10-11 1810hs liquidacion terminada\librerias\listahym.c
+	"ListaHyM.h"
+
+1668985545 source:c:\users\nahum\desktop\tp_final-2da entrega\ultima actualizacion seba 10-11 1810hs liquidacion terminada\librerias\mame.c
+	"MAME.h"
+
+1668985244 c:\users\nahum\desktop\tp_final-2da entrega\ultima actualizacion seba 10-11 1810hs liquidacion terminada\librerias\mame.h
+	"JumpFrog.h"
+
+1668977016 source:c:\users\nahum\desktop\tp_final-2da entrega\ultima actualizacion seba 10-11 1810hs liquidacion terminada\librerias\pingpong.c
+	"PingPong.h"
+
+1668970232 source:c:\users\nahum\desktop\tp_final-2da entrega\ultima actualizacion seba 10-11 1810hs liquidacion terminada\librerias\snakegame.c
+	"SnakeGame.h"
+
+1668810775 source:c:\users\nahum\desktop\tp_final-2da entrega\ultima actualizacion seba 10-11 1810hs liquidacion terminada\librerias\ticketcompra.c
+	"TicketCompra.h"
+
+1668984510 source:c:\users\nahum\desktop\tp_final-2da entrega\ultima actualizacion seba 10-11 1810hs liquidacion terminada\librerias\usuario.c
+	"Usuario.h"
+
+1668983739 source:c:\users\nahum\desktop\tp_final-2da entrega\ultima actualizacion seba 10-11 1810hs liquidacion terminada\main.c
+	"MAME.h"
+
+1669057182 source:c:\users\nahum\desktop\tp_final-2da entrega\ultima actualizacion cyn 20-11 2018hs\librerias\arbolusuarios.c
+	"ArbolUsuarios.h"
+
+1668959944 c:\users\nahum\desktop\tp_final-2da entrega\ultima actualizacion cyn 20-11 2018hs\librerias\arbolusuarios.h
+	"ListaHyM.h"
+
+1668382207 c:\users\nahum\desktop\tp_final-2da entrega\ultima actualizacion cyn 20-11 2018hs\librerias\listahym.h
+	"ListaConsumos.h"
+
+1668977849 c:\users\nahum\desktop\tp_final-2da entrega\ultima actualizacion cyn 20-11 2018hs\librerias\listaconsumos.h
+	"TicketCompra.h"
+
+1669068883 c:\users\nahum\desktop\tp_final-2da entrega\ultima actualizacion cyn 20-11 2018hs\librerias\ticketcompra.h
+	"Usuario.h"
+
+1669069113 c:\users\nahum\desktop\tp_final-2da entrega\ultima actualizacion cyn 20-11 2018hs\librerias\usuario.h
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<windows.h>
+	<string.h>
+	<math.h>
+	<time.h>
+	<stdbool.h>
+	<locale.h>
+	<direct.h>
+
+1668978171 source:c:\users\nahum\desktop\tp_final-2da entrega\ultima actualizacion cyn 20-11 2018hs\librerias\jumpfrog.c
+	"JumpFrog.h"
+
+1668977331 c:\users\nahum\desktop\tp_final-2da entrega\ultima actualizacion cyn 20-11 2018hs\librerias\jumpfrog.h
+	"PingPong.h"
+
+1669064674 c:\users\nahum\desktop\tp_final-2da entrega\ultima actualizacion cyn 20-11 2018hs\librerias\pingpong.h
+	"SnakeGame.h"
+
+1669063214 c:\users\nahum\desktop\tp_final-2da entrega\ultima actualizacion cyn 20-11 2018hs\librerias\snakegame.h
+	"ArbolUsuarios.h"
+
+1668977849 source:c:\users\nahum\desktop\tp_final-2da entrega\ultima actualizacion cyn 20-11 2018hs\librerias\listaconsumos.c
+	"ListaConsumos.h"
+
+1668382511 source:c:\users\nahum\desktop\tp_final-2da entrega\ultima actualizacion cyn 20-11 2018hs\librerias\listahym.c
+	"ListaHyM.h"
+
+1669070060 source:c:\users\nahum\desktop\tp_final-2da entrega\ultima actualizacion cyn 20-11 2018hs\librerias\mame.c
+	"MAME.h"
+
+1669064717 c:\users\nahum\desktop\tp_final-2da entrega\ultima actualizacion cyn 20-11 2018hs\librerias\mame.h
+	"JumpFrog.h"
+
+1669068916 source:c:\users\nahum\desktop\tp_final-2da entrega\ultima actualizacion cyn 20-11 2018hs\librerias\pingpong.c
+	"PingPong.h"
+
+1669063311 source:c:\users\nahum\desktop\tp_final-2da entrega\ultima actualizacion cyn 20-11 2018hs\librerias\snakegame.c
+	"SnakeGame.h"
+
+1668810775 source:c:\users\nahum\desktop\tp_final-2da entrega\ultima actualizacion cyn 20-11 2018hs\librerias\ticketcompra.c
+	"TicketCompra.h"
+
+1669069812 source:c:\users\nahum\desktop\tp_final-2da entrega\ultima actualizacion cyn 20-11 2018hs\librerias\usuario.c
+	"Usuario.h"
+
+1669047762 source:c:\users\nahum\desktop\tp_final-2da entrega\ultima actualizacion cyn 20-11 2018hs\main.c
+	"MAME.h"
+
+1669074944 source:c:\users\nahum\desktop\tp_final-2da entrega\ultima actualizacion cyn 21-11 1937hs\librerias\arbolusuarios.c
+	"ArbolUsuarios.h"
+
+1668959944 c:\users\nahum\desktop\tp_final-2da entrega\ultima actualizacion cyn 21-11 1937hs\librerias\arbolusuarios.h
+	"ListaHyM.h"
+
+1668382207 c:\users\nahum\desktop\tp_final-2da entrega\ultima actualizacion cyn 21-11 1937hs\librerias\listahym.h
+	"ListaConsumos.h"
+
+1668977849 c:\users\nahum\desktop\tp_final-2da entrega\ultima actualizacion cyn 21-11 1937hs\librerias\listaconsumos.h
+	"TicketCompra.h"
+
+1669070841 c:\users\nahum\desktop\tp_final-2da entrega\ultima actualizacion cyn 21-11 1937hs\librerias\ticketcompra.h
+	"Usuario.h"
+
+1669087589 c:\users\nahum\desktop\tp_final-2da entrega\ultima actualizacion cyn 21-11 1937hs\librerias\usuario.h
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<windows.h>
+	<string.h>
+	<math.h>
+	<time.h>
+	<stdbool.h>
+	<locale.h>
+	<direct.h>
+
+1669078526 source:c:\users\nahum\desktop\tp_final-2da entrega\ultima actualizacion cyn 21-11 1937hs\librerias\jumpfrog.c
+	"JumpFrog.h"
+
+1669071019 c:\users\nahum\desktop\tp_final-2da entrega\ultima actualizacion cyn 21-11 1937hs\librerias\jumpfrog.h
+	"PingPong.h"
+
+1669064674 c:\users\nahum\desktop\tp_final-2da entrega\ultima actualizacion cyn 21-11 1937hs\librerias\pingpong.h
+	"SnakeGame.h"
+
+1669063214 c:\users\nahum\desktop\tp_final-2da entrega\ultima actualizacion cyn 21-11 1937hs\librerias\snakegame.h
+	"ArbolUsuarios.h"
+
+1668977849 source:c:\users\nahum\desktop\tp_final-2da entrega\ultima actualizacion cyn 21-11 1937hs\librerias\listaconsumos.c
+	"ListaConsumos.h"
+
+1669087589 source:c:\users\nahum\desktop\tp_final-2da entrega\ultima actualizacion cyn 21-11 1937hs\librerias\listahym.c
+	"ListaHyM.h"
+
+1669087106 source:c:\users\nahum\desktop\tp_final-2da entrega\ultima actualizacion cyn 21-11 1937hs\librerias\mame.c
+	"MAME.h"
+
+1669064717 c:\users\nahum\desktop\tp_final-2da entrega\ultima actualizacion cyn 21-11 1937hs\librerias\mame.h
+	"JumpFrog.h"
+
+1669068916 source:c:\users\nahum\desktop\tp_final-2da entrega\ultima actualizacion cyn 21-11 1937hs\librerias\pingpong.c
+	"PingPong.h"
+
+1669063311 source:c:\users\nahum\desktop\tp_final-2da entrega\ultima actualizacion cyn 21-11 1937hs\librerias\snakegame.c
+	"SnakeGame.h"
+
+1669088842 source:c:\users\nahum\desktop\tp_final-2da entrega\ultima actualizacion cyn 21-11 1937hs\librerias\usuario.c
+	"Usuario.h"
+
+1669074683 source:c:\users\nahum\desktop\tp_final-2da entrega\ultima actualizacion cyn 21-11 1937hs\main.c
+	"MAME.h"
+
+1669070919 source:c:\users\nahum\desktop\tp_final-2da entrega\ultima actualizacion cyn 21-11 1937hs\librerias\ticketcompra.c
+	"TicketCompra.h"
+
+1669074944 source:c:\users\nahum\desktop\tp_final-2da entrega\mame(15)\librerias\arbolusuarios.c
+	"ArbolUsuarios.h"
+
+1668959944 c:\users\nahum\desktop\tp_final-2da entrega\mame(15)\librerias\arbolusuarios.h
+	"ListaHyM.h"
+
+1668382207 c:\users\nahum\desktop\tp_final-2da entrega\mame(15)\librerias\listahym.h
+	"ListaConsumos.h"
+
+1668977849 c:\users\nahum\desktop\tp_final-2da entrega\mame(15)\librerias\listaconsumos.h
+	"TicketCompra.h"
+
+1669159511 c:\users\nahum\desktop\tp_final-2da entrega\mame(15)\librerias\ticketcompra.h
+	"Usuario.h"
+
+1669160072 c:\users\nahum\desktop\tp_final-2da entrega\mame(15)\librerias\usuario.h
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<windows.h>
+	<string.h>
+	<math.h>
+	<time.h>
+	<stdbool.h>
+	<locale.h>
+
+1669078526 source:c:\users\nahum\desktop\tp_final-2da entrega\mame(15)\librerias\jumpfrog.c
+	"JumpFrog.h"
+
+1669071019 c:\users\nahum\desktop\tp_final-2da entrega\mame(15)\librerias\jumpfrog.h
+	"PingPong.h"
+
+1669064674 c:\users\nahum\desktop\tp_final-2da entrega\mame(15)\librerias\pingpong.h
+	"SnakeGame.h"
+
+1669063214 c:\users\nahum\desktop\tp_final-2da entrega\mame(15)\librerias\snakegame.h
+	"ArbolUsuarios.h"
+
+1668977849 source:c:\users\nahum\desktop\tp_final-2da entrega\mame(15)\librerias\listaconsumos.c
+	"ListaConsumos.h"
+
+1669087589 source:c:\users\nahum\desktop\tp_final-2da entrega\mame(15)\librerias\listahym.c
+	"ListaHyM.h"
+
+1669157876 source:c:\users\nahum\desktop\tp_final-2da entrega\mame(15)\librerias\mame.c
+	"MAME.h"
+
+1669064717 c:\users\nahum\desktop\tp_final-2da entrega\mame(15)\librerias\mame.h
+	"JumpFrog.h"
+
+1669068916 source:c:\users\nahum\desktop\tp_final-2da entrega\mame(15)\librerias\pingpong.c
+	"PingPong.h"
+
+1669063311 source:c:\users\nahum\desktop\tp_final-2da entrega\mame(15)\librerias\snakegame.c
+	"SnakeGame.h"
+
+1669070919 source:c:\users\nahum\desktop\tp_final-2da entrega\mame(15)\librerias\ticketcompra.c
+	"TicketCompra.h"
+
+1669088842 source:c:\users\nahum\desktop\tp_final-2da entrega\mame(15)\librerias\usuario.c
+	"Usuario.h"
+
+1669074683 source:c:\users\nahum\desktop\tp_final-2da entrega\mame(15)\main.c
+	"MAME.h"
+
+1669074944 source:d:\tp_final-2da entrega c\mame(15)\librerias\arbolusuarios.c
+	"ArbolUsuarios.h"
+
+1668959944 d:\tp_final-2da entrega c\mame(15)\librerias\arbolusuarios.h
+	"ListaHyM.h"
+
+1668382207 d:\tp_final-2da entrega c\mame(15)\librerias\listahym.h
+	"ListaConsumos.h"
+
+1668977849 d:\tp_final-2da entrega c\mame(15)\librerias\listaconsumos.h
+	"TicketCompra.h"
+
+1687396789 d:\tp_final-2da entrega c\mame(15)\librerias\ticketcompra.h
+	"Usuario.h"
+
+1687396789 d:\tp_final-2da entrega c\mame(15)\librerias\usuario.h
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<windows.h>
+	<string.h>
+	<math.h>
+	<time.h>
+	<stdbool.h>
+	<locale.h>
+
+1669078526 source:d:\tp_final-2da entrega c\mame(15)\librerias\jumpfrog.c
+	"JumpFrog.h"
+
+1669071019 d:\tp_final-2da entrega c\mame(15)\librerias\jumpfrog.h
+	"PingPong.h"
+
+1669064674 d:\tp_final-2da entrega c\mame(15)\librerias\pingpong.h
+	"SnakeGame.h"
+
+1669063214 d:\tp_final-2da entrega c\mame(15)\librerias\snakegame.h
+	"ArbolUsuarios.h"
+
+1668977849 source:d:\tp_final-2da entrega c\mame(15)\librerias\listaconsumos.c
+	"ListaConsumos.h"
+
+1669087589 source:d:\tp_final-2da entrega c\mame(15)\librerias\listahym.c
+	"ListaHyM.h"
+
+1669157876 source:d:\tp_final-2da entrega c\mame(15)\librerias\mame.c
+	"MAME.h"
+
+1669064717 d:\tp_final-2da entrega c\mame(15)\librerias\mame.h
+	"JumpFrog.h"
+
+1669068916 source:d:\tp_final-2da entrega c\mame(15)\librerias\pingpong.c
+	"PingPong.h"
+
+1669063311 source:d:\tp_final-2da entrega c\mame(15)\librerias\snakegame.c
+	"SnakeGame.h"
+
+1669070919 source:d:\tp_final-2da entrega c\mame(15)\librerias\ticketcompra.c
+	"TicketCompra.h"
+
+1669088842 source:d:\tp_final-2da entrega c\mame(15)\librerias\usuario.c
+	"Usuario.h"
+
+1669074683 source:d:\tp_final-2da entrega c\mame(15)\main.c
+	"MAME.h"
+
